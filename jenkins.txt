@@ -1,1 +1,3 @@
 Jenkins Git Integration version 1
+
+Jenkins Git Integration version 2
