@@ -1,3 +1,5 @@
-Jenkins Git Integration version 1
+Jenkins Git Integration version 1 manually
 
-Jenkins Git Integration version 2
+Jenkins Git Integration version 2 poll scm
+
+Jenkins Git Integration version 3 github webhook
